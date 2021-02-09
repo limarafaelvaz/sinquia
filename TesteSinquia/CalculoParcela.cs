@@ -35,7 +35,7 @@ namespace TesteSinquia
         public void Calcular()
         {
             if (Emprestimo <= 0) throw new ArgumentException("Empréstimo deve ser maior do que 0");
-            if (NumParcelas <= 0) throw new ArgumentException("Período da Parcela deve ser maior do que 0");
+            if (NumParcelas <= 0) throw new ArgumentException("Número de parcelas deve ser maior do que 0");
 
             System.Text.StringBuilder imprimir = new System.Text.StringBuilder();
             StringBuilder linha = GetLinha();
@@ -68,7 +68,6 @@ namespace TesteSinquia
         private StringBuilder GetLinha()
         {
             System.Text.StringBuilder linha = new System.Text.StringBuilder();
-
 
             for (int k = 0; k < 50; k++)
             {
