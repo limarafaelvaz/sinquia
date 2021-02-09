@@ -1,0 +1,13 @@
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.exe
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.deps.json
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.runtimeconfig.json
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.runtimeconfig.dev.json
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.dll
+C:\TesteSinquia\TesteSinquia\bin\Debug\netcoreapp3.1\TesteSinquia.pdb
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.AssemblyInfoInputs.cache
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.AssemblyInfo.cs
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.csproj.CoreCompileInputs.cache
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.dll
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.pdb
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.genruntimeconfig.cache
+C:\TesteSinquia\TesteSinquia\obj\Debug\netcoreapp3.1\TesteSinquia.csprojAssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteSinquia", "TesteSinquia\TesteSinquia.csproj", "{D7F6CF59-48F5-4264-8A69-CCAE43943556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTeste", "ProjetoTeste\ProjetoTeste.csproj", "{43285DE8-C686-47AD-BAD2-598F0B22819D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F6CF59-48F5-4264-8A69-CCAE43943556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F6CF59-48F5-4264-8A69-CCAE43943556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F6CF59-48F5-4264-8A69-CCAE43943556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F6CF59-48F5-4264-8A69-CCAE43943556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43285DE8-C686-47AD-BAD2-598F0B22819D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43285DE8-C686-47AD-BAD2-598F0B22819D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43285DE8-C686-47AD-BAD2-598F0B22819D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43285DE8-C686-47AD-BAD2-598F0B22819D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244711AA-0ECF-4DDF-86C0-C4B236C630FF}
+	EndGlobalSection
+EndGlobal
